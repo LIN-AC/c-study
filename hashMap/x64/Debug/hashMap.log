@@ -1,0 +1,4 @@
+﻿  hashmap.c
+E:\c++\cday01solution\hashMap\hashmap.c(39,9): warning C4033: “init_hashmap”必须返回值
+E:\c++\cday01solution\hashMap\hashmap.c(42): warning C4715: “init_hashmap”: 不是所有的控件路径都返回值
+  hashMap.vcxproj -> E:\c++\cday01solution\x64\Debug\hashMap.exe
